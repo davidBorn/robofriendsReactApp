@@ -68,4 +68,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### App Functionality
-Allows the user to filter through robots intantly using the name of the robot they wish to find. For now th app uses an array. Future changes include utilizing an array and makin it work with redux.
+Allows the user to filter through robots intantly using the name of the robot they wish to find. For now the app uses an array. Future changes include utilizing an array and makin it work with redux.
